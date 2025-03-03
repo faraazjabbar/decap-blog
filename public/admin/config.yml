@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: faraazjabbar/decap-blog
   branch: main
   squash_merges: true
